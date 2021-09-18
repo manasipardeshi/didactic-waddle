@@ -3,3 +3,5 @@ Here are some instructions:
 The website is built with the Composer CMS. Our training portal includes information about the  composer software and modules. If you are new to Composer, we recommend completing the training for New Administrators starting with the modules for Composer, Resources and Posts. When you are logged into Composer, the link to the training portal can be found by hovering over the talk bubble in the far left menu and clicking the Finalsite Training link.
 
 Your website will have some functionality which is unique to your website and therefore not covered in the training modules. The following Site Notes will serve as a guide to using those features. These Site Notes assume a basic understanding of Composer CMS and will make some assumptions about key concepts found in the training portal. In addition to these notes, the Production Branch of the website serves as a reference for the styles used on your site. In it you'll find a page for the style guide as well as pages showing examples of the enhancements, and Best Practice Assets
+
+Please refer to website for more instructions.
